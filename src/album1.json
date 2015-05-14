@@ -1,0 +1,43 @@
+[
+{
+		"artist" : "Taras Chubay",
+		"title" : "Taras",
+		"duration" : "16.21",
+		"quality" : {
+			"format" : "mp3",
+			"genre" : "Pop"
+		}
+	},
+	{
+		"artist" : "Led Zeppelin",
+		"title" : "Whole Lotta Love",
+		"duration" : "5.27",
+		"quality" : {
+			"format" : "mp3",
+			"genre" : "Rock"
+		}
+	},
+	{
+		"artist" : "David Guetta feat. Sam Martin",
+		"title" : "Dangerous",
+		"duration" : "3.24",
+		"quality" : {
+			"format" : "mp3",
+			"genre" : "Electronick"
+		}
+	},
+	{
+		"artist" : "Red Hot Chili Peppers",
+		"title" : "Can't stop",
+		"duration" : "4.29",
+		"quality" : {
+			"format" : "mp3",
+			"genre" : "Rock"
+		}
+	},
+	{
+		"artist" : "Red Hot Chili Peppers",
+		"title" : "Can't stop",
+		"duration" : "4.29"
+	}
+]

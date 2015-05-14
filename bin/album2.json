@@ -1,0 +1,43 @@
+[
+{
+		"artist" : "Ihor1",
+		"title" : "Taras",
+		"duration" : "16.21",
+		"quality" : {
+			"format" : "mp3",
+			"genre" : "Pop"
+		}
+	},
+	{
+		"artist" : "Ihor",
+		"title" : "Taras2",
+		"duration" : "4.29",
+		"quality" : {
+			"format" : "mp34",
+			"genre" : "Rock1"
+		}
+	},
+	{
+		"artist" : "Ihor",
+		"title" : "Taras",
+		"duration" : "3.24",
+		"quality" : {
+			"format" : "mp3",
+			"genre" : "Electronick"
+		}
+	},
+	{
+		"artist" : "Ihor",
+		"title" : "Taras",
+		"duration" : "4.29",
+		"quality" : {
+			"format" : "mp3",
+			"genre" : "Rock"
+		}
+	},
+	{
+		"artist" : "Ihor",
+		"title" : "Taras",
+		"duration" : "4.29"
+	}
+]
